@@ -1,1 +1,1 @@
-# integrations
+# @nuxt4-layers/integrations
